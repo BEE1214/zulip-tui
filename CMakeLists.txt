@@ -9,4 +9,5 @@ add_executable(zulip-tui
 target_link_libraries(zulip-tui PRIVATE
         ncurses
         curl
+
 )
