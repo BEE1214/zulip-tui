@@ -1,4 +1,6 @@
 .env
 cmake-build-debug
+build
+.cache
 .idea
 *rc
